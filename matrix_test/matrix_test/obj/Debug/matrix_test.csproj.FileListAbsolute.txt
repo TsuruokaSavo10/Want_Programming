@@ -1,0 +1,10 @@
+C:\Users\ange0\source\repos\matrix_test\matrix_test\bin\Debug\matrix_test.exe.config
+C:\Users\ange0\source\repos\matrix_test\matrix_test\bin\Debug\matrix_test.exe
+C:\Users\ange0\source\repos\matrix_test\matrix_test\bin\Debug\matrix_test.pdb
+C:\Users\ange0\source\repos\matrix_test\matrix_test\obj\Debug\matrix_test.csprojAssemblyReference.cache
+C:\Users\ange0\source\repos\matrix_test\matrix_test\obj\Debug\matrix_test.Form1.resources
+C:\Users\ange0\source\repos\matrix_test\matrix_test\obj\Debug\matrix_test.Properties.Resources.resources
+C:\Users\ange0\source\repos\matrix_test\matrix_test\obj\Debug\matrix_test.csproj.GenerateResource.cache
+C:\Users\ange0\source\repos\matrix_test\matrix_test\obj\Debug\matrix_test.csproj.CoreCompileInputs.cache
+C:\Users\ange0\source\repos\matrix_test\matrix_test\obj\Debug\matrix_test.exe
+C:\Users\ange0\source\repos\matrix_test\matrix_test\obj\Debug\matrix_test.pdb
