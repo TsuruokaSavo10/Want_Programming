@@ -25,7 +25,7 @@ namespace FieldTest
         private string str1;
         private string str2;
         private string str3;
-
+        
         private int[,] field = new int[12, 12];             //フィールドの得点が入る
 
 

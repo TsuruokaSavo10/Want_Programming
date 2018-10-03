@@ -8,3 +8,13 @@ C:\Users\ange0\source\repos\FieldTest\FieldTest\obj\Debug\FieldTest.csproj.Gener
 C:\Users\ange0\source\repos\FieldTest\FieldTest\obj\Debug\FieldTest.csproj.CoreCompileInputs.cache
 C:\Users\ange0\source\repos\FieldTest\FieldTest\obj\Debug\FieldTest.exe
 C:\Users\ange0\source\repos\FieldTest\FieldTest\obj\Debug\FieldTest.pdb
+C:\Users\ange0\Documents\Want_Programming\FieldTest\FieldTest\obj\Debug\FieldTest.csprojAssemblyReference.cache
+C:\Users\ange0\Documents\Want_Programming\FieldTest\FieldTest\obj\Debug\FieldTest.Form1.resources
+C:\Users\ange0\Documents\Want_Programming\FieldTest\FieldTest\obj\Debug\FieldTest.Properties.Resources.resources
+C:\Users\ange0\Documents\Want_Programming\FieldTest\FieldTest\obj\Debug\FieldTest.csproj.GenerateResource.cache
+C:\Users\ange0\Documents\Want_Programming\FieldTest\FieldTest\obj\Debug\FieldTest.csproj.CoreCompileInputs.cache
+C:\Users\ange0\Documents\Want_Programming\FieldTest\FieldTest\obj\Debug\FieldTest.exe
+C:\Users\ange0\Documents\Want_Programming\FieldTest\FieldTest\obj\Debug\FieldTest.pdb
+C:\Users\ange0\Documents\Want_Programming\FieldTest\FieldTest\bin\Debug\FieldTest.exe.config
+C:\Users\ange0\Documents\Want_Programming\FieldTest\FieldTest\bin\Debug\FieldTest.exe
+C:\Users\ange0\Documents\Want_Programming\FieldTest\FieldTest\bin\Debug\FieldTest.pdb
