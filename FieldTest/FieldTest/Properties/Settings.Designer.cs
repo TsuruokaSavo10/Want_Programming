@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace matrix_test.Properties
+namespace FieldTest.Properties
 {
 
 

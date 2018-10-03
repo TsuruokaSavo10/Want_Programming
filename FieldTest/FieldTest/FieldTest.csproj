@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7D667831-4279-4FB9-9E31-B6AE74B430EE}</ProjectGuid>
+    <ProjectGuid>{3ED26886-38A7-44F8-9E4C-13F01B4FD977}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>matrix_test</RootNamespace>
-    <AssemblyName>matrix_test</AssemblyName>
+    <RootNamespace>FieldTest</RootNamespace>
+    <AssemblyName>FieldTest</AssemblyName>
     <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
