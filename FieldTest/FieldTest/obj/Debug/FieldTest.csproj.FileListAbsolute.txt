@@ -18,3 +18,13 @@ C:\Users\ange0\Documents\Want_Programming\FieldTest\FieldTest\obj\Debug\FieldTes
 C:\Users\ange0\Documents\Want_Programming\FieldTest\FieldTest\bin\Debug\FieldTest.exe.config
 C:\Users\ange0\Documents\Want_Programming\FieldTest\FieldTest\bin\Debug\FieldTest.exe
 C:\Users\ange0\Documents\Want_Programming\FieldTest\FieldTest\bin\Debug\FieldTest.pdb
+D:\Git\Want_Programming\FieldTest\FieldTest\bin\Debug\FieldTest.exe.config
+D:\Git\Want_Programming\FieldTest\FieldTest\bin\Debug\FieldTest.exe
+D:\Git\Want_Programming\FieldTest\FieldTest\bin\Debug\FieldTest.pdb
+D:\Git\Want_Programming\FieldTest\FieldTest\obj\Debug\FieldTest.csprojAssemblyReference.cache
+D:\Git\Want_Programming\FieldTest\FieldTest\obj\Debug\FieldTest.Form1.resources
+D:\Git\Want_Programming\FieldTest\FieldTest\obj\Debug\FieldTest.Properties.Resources.resources
+D:\Git\Want_Programming\FieldTest\FieldTest\obj\Debug\FieldTest.csproj.GenerateResource.cache
+D:\Git\Want_Programming\FieldTest\FieldTest\obj\Debug\FieldTest.csproj.CoreCompileInputs.cache
+D:\Git\Want_Programming\FieldTest\FieldTest\obj\Debug\FieldTest.exe
+D:\Git\Want_Programming\FieldTest\FieldTest\obj\Debug\FieldTest.pdb
