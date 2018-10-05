@@ -23,6 +23,7 @@ namespace FieldTest
         
         private int[,] field = new int[12, 12];             //フィールドの得点が入る
 
+        private System.Windows.Forms.TableLayoutPanel FieldPanel;
 
         /* コンストラクタ */
         public Form1()
@@ -33,9 +34,11 @@ namespace FieldTest
         private void button1_Click(object sender, EventArgs e)
         {
             matrix_number();
+            create_FieldPanel(col_num, row_num);
             field_point();
         }
 
+        partial void create_FieldPanel(int col, int row);
         partial void matrix_number();
         partial void field_point();
     }
